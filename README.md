@@ -1,0 +1,3 @@
+As an avid cyclist, I was quite upset when my bike was stolen from me.  I was so upset that I put together a web scraper that evening to try and find my bike!
+
+The scraper crawls through several end points on Craigslist, then filters results based on size, color, brand, etc… Then the top results are recorded to a csv file so that I can easily get see the specifications of the bike and click a link to the Craigslist listing.  The program was run daily and collected information on about 25,000 bikes and filtered the results down to about 50.
